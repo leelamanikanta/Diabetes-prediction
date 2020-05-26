@@ -1,5 +1,5 @@
 # Diabetes-prediction
-Diabetes prediction to demonstrate model deployment
+Diabetes prediction model deployment using Flask and Heroku.
 
 Are you a beginner in the field of machine learning and wondering how to bring your project to live. I'm was in the same situation when I started learning ML.
 Most of the ML courses focus on EDA,feature engineering and model tuning and ignore the model deployment.
